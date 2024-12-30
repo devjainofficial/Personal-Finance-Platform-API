@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CpdKb1xNt6Jb1ntAKPbwlLiC8cb+6wiiQnZdFY5KkfU=",
+  "Source": "PersonalFinancePlatformAPI",
+  "BasePath": "_content/PersonalFinancePlatformAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
