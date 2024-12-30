@@ -14,9 +14,7 @@
 /PersonalFinancePlatformAPI/obj/Debug/net8.0/ref/PersonalFinancePlatformAPI.dll
 /PersonalFinancePlatformAPI/obj/Debug/net8.0/refint/PersonalFinancePlatformAPI.dll
 /.vs/PersonalFinancePlatformAPI/v17/DocumentLayout.backup.json
-/bin
-/.gitignore
-/.vs/PersonalFinancePlatformAPI/FileContentIndex/4b393130-216a-488d-b42a-08575480ac9e.vsidx
+/.vs/PersonalFinancePlatformAPI/FileContentIndex/907ebc50-5584-42d1-b9c1-a94e0e628c92.vsidx
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/Azure.Core.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/Azure.Identity.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -91,10 +89,6 @@
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/PersonalFinancePlatformAPI.deps.json
-/PersonalFinancePlatformAPI/bin/Debug/net8.0/PersonalFinancePlatformAPI.dll
-/PersonalFinancePlatformAPI/bin/Debug/net8.0/PersonalFinancePlatformAPI.exe
-/PersonalFinancePlatformAPI/bin/Debug/net8.0/PersonalFinancePlatformAPI.pdb
-/PersonalFinancePlatformAPI/bin/Debug/net8.0/PersonalFinancePlatformAPI.runtimeconfig.json
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
@@ -158,12 +152,4 @@
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /PersonalFinancePlatformAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/apphost.exe
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/PersonalFinancePlatformAPI.csproj.CoreCompileInputs.cache
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/PersonalFinancePlatformAPI.csproj.FileListAbsolute.txt
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/PersonalFinancePlatformAPI.dll
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/PersonalFinancePlatformAPI.genruntimeconfig.cache
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/PersonalFinancePlatformAPI.pdb
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/ref/PersonalFinancePlatformAPI.dll
-/PersonalFinancePlatformAPI/obj/Debug/net8.0/refint/PersonalFinancePlatformAPI.dll
 /PersonalFinancePlatformAPI/PersonalFinancePlatformAPI.csproj
