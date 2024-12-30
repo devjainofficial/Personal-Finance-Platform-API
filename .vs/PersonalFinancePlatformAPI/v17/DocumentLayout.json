@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Modular Personal Finance Platform\\Backend\\PersonalFinancePlatformAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D1AA63-2F95-41D2-A745-DE18121EB817}|PersonalFinancePlatformAPI\\PersonalFinancePlatformAPI.csproj|d:\\modular personal finance platform\\backend\\personalfinanceplatformapi\\personalfinanceplatformapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D1AA63-2F95-41D2-A745-DE18121EB817}|PersonalFinancePlatformAPI\\PersonalFinancePlatformAPI.csproj|solutionrelative:personalfinanceplatformapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Modular Personal Finance Platform\\Backend\\PersonalFinancePlatformAPI\\PersonalFinancePlatformAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PersonalFinancePlatformAPI\\Program.cs",
+              "ToolTip": "D:\\Modular Personal Finance Platform\\Backend\\PersonalFinancePlatformAPI\\PersonalFinancePlatformAPI\\Program.cs",
+              "RelativeToolTip": "PersonalFinancePlatformAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:02:17.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

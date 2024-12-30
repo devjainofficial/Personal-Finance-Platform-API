@@ -34,3 +34,4 @@ D:\Modular Personal Finance Platform\Backend\PersonalFinancePlatformAPI\Personal
 D:\Modular Personal Finance Platform\Backend\PersonalFinancePlatformAPI\PersonalFinancePlatformAPI\obj\Debug\net8.0\PersonalFinancePlatformAPI.pdb
 D:\Modular Personal Finance Platform\Backend\PersonalFinancePlatformAPI\PersonalFinancePlatformAPI\obj\Debug\net8.0\PersonalFinancePlatformAPI.genruntimeconfig.cache
 D:\Modular Personal Finance Platform\Backend\PersonalFinancePlatformAPI\PersonalFinancePlatformAPI\obj\Debug\net8.0\ref\PersonalFinancePlatformAPI.dll
+D:\Modular Personal Finance Platform\Backend\PersonalFinancePlatformAPI\PersonalFinancePlatformAPI\obj\Debug\net8.0\PersonalFinancePlatformAPI.sourcelink.json
