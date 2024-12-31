@@ -1,0 +1,31 @@
+/.vs/PersonalFinancePlatformAPI/FileContentIndex
+/.vs/PersonalFinancePlatformAPI/v17
+/.vs/PersonalFinancePlatformAPI/v17
+/PersonalFinancePlatformAPI/bin/    
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore Visual Studio Code settings
+.vscode/
+.history/
+
+# Ignore lock files
+project.lock.json
+*.log
+
+# Ignore runtime files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.runtimeconfig.json
+
+# Ignore publish output
+wwwroot/
+
